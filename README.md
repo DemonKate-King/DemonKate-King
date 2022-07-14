@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm DemonKate-King</h1>
-<h3 align="center">I am interested in cloud projects</h3>
+<h3 align="center">I am Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwarerat&label=Profile%20views&color=b6330e&style=flat" alt="softwarerat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwarerat" alt="softwarerat" /></a> </p>
+<p align="left"> <a href="https://github.com/DemonKate-King/Sqli-King"><img src="https://github-profile-trophy.vercel.app/?username=softwarerat" alt="softwarerat" /></a> </p>
 
-- 🔭 I’m currently working on [UltimateGamingScript](https://github.com/SoftwareRat/UltimateGamingScript)
+- 🔭 I’m currently working on [UltimateGamingScript](https://github.com/DemonKate-King/Sqli-King)
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **PowerShell and C#**
+- 💬 Ask me about **@Hoang.X.Developer**
 
-- 📫 How to reach me **jaguar5018@gmail.com**
+- 📫 How to reach me **Hoang.X.Developer@gmail.com**
 
 - ⚡ Fun fact **The majority of your brain is fat.**
 
