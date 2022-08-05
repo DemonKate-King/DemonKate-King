@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://zalo.me/g/kwhvyt167" target="blank"><img align="center" src="https://www.ozeo.vn/wp-content/uploads/2020/05/icons9-zalo.svg" alt="13652424" height="30" width="40" /></a>
+<a href="https://zalo.me/g/kwhvyt167" target="blank"><img align="center" src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Zalo-Arc.png" alt="13652424" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwarerat" height="30" width="40" /></a>
 </p>
 
